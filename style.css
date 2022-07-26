@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .d {
+    position: relative;
+   
+  }
+  .marker {
+    background: linear-gradient(transparent 60%, #fec1fe 0%);
+  }
+  p.content1 {position: relative; top: 0; }
